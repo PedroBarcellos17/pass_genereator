@@ -17,8 +17,13 @@ O programa encerrará e agradecerá por usar o gerador de senhas.
 ## Exemplo de Uso
 
 Insira o tamanho da senha: 12
+
 Sua senha é essa: @aB1zP3!$eRt9
+
 Se deseja criar uma nova senha aperte[S], se não quiser aperte outra tecla: S
+
 Sua senha é essa: 5%GcY#7vDwA@
+
 Se deseja criar uma nova senha aperte[S]: N
+
 Acabou, obrigado por usar esse gerador de senhas!!
